@@ -16,7 +16,12 @@
 # Assessment Using Reliability Growth Testing 
 
 # Assessment Using Reliability Demonstration Chart 
-
+## Minimum MTTFmin for which the SUT becomes acceptable
+![MTTFmin](/media/MTTFmin.jpg)
+## MTTF to twice MTTFmin 
+![twiceMTTFmin](/media/twiceMTTFmin.jpg)
+## MTTF to half MTTFmin 
+![halfMTTFmin](/media/halfMTTFmin.jpg)
 # 
 
 # Comparison of Results
